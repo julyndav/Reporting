@@ -22,7 +22,7 @@ It highlights my ability to:
 <li>Communicate with technical and non-technical audiences</li>
 <li>Create visually appealing, structured executive presentations</li>
 <li>Drive clarity and alignment across leadership teams</li></ul>
-<br></br>
+<br>
 
 ## Report List
 | Project | Description |
@@ -31,7 +31,7 @@ It highlights my ability to:
 | [Business Analytics](https://github.com/julyndav/Python/tree/main/Business%20Analytics) | Optimize marketing expenses through data and cohort analysis along with data visualization |
 | [AB_Analysis](https://github.com/julyndav/Python/tree/main/AB_Analysis) | Assist Marketing Team in determining which group plan will boost revenue |
 
-<br></br>
+<br>
 ## Tools & Skills 
 <ul>
   <li>PowerPoint (executive slide architecture & design)</li>
