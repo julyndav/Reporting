@@ -1,15 +1,28 @@
-# Reporting
-Reports and Slide Decks that have been presented to upper management, investors and stakeholders.
+# Reporting Portfolio 📊
 
-**Key Features:**
+A collection of executive-level reports and slide decks developed for upper management, investors, and key stakeholders.
+These presentations translate complex data into clear, actionable insights and demonstrate strong communication, design, and analytical storytelling skills.
+<br></br>
+
+## What You’ll Find Here 
 <ul>
-<li>Slide Decks: Power Point presentations to relay analysis finding and new project presentation</li>
-<li>Exploratory Data Analysis (EDA): Identifying patterns, correlations, and insights through visualizations and summary statistics.</li>
-<li>Data Visualization: Creating informative and interactive plots using libraries like Matplotlib, Seaborn, and Plotly.</li>
-<li>Statistical Analysis: Hypothesis testing, confidence intervals, and regression analysis to draw meaningful conclusions.</li>
-<li>Machine Learning: Implementing predictive models using scikit-learn, including linear regression, classification, and clustering.</li>
-</ul>
-<p></p>
+<li><b>Executive Slide Decks:</b>
+ <dd>Professionally-designed PowerPoint presentations used to relay analytical findings, business insights, and proposed solutions</li></dd>
+<li><b>Project & Initiative Overviews:</b>
+<dd>Clear and structured breakdowns of business challenges, methodologies, and results—tailored for strategic decision-makers</li></dd>
+<li><b>Data-Driven Narratives:</b>
+ <dd>Each report is crafted to blend analytical rigor with compelling storytelling to drive impact and alignment</li></dd></ul>
+<br>
+
+## Purpose of This Repository  
+This repository serves as a public-facing showcase of the reporting work I’ve delivered across various projects.
+It highlights my ability to:
+<ul>
+<li>Translate data into concise, digestible insights</li>
+<li>Communicate with technical and non-technical audiences</li>
+<li>Create visually appealing, structured executive presentations</li>
+<li>Drive clarity and alignment across leadership teams</li></ul>
+<br></br>
 
 ## Report List
 | Project | Description |
@@ -19,7 +32,19 @@ Reports and Slide Decks that have been presented to upper management, investors 
 | [AB_Analysis](https://github.com/julyndav/Python/tree/main/AB_Analysis) | Assist Marketing Team in determining which group plan will boost revenue |
 
 <br></br>
-
-## Project Notes:
-
+## Tools & Skills 
+<ul>
+  <li>PowerPoint (executive slide architecture & design)</li>
+  <li>Power BI / Tableau (visual design & insight communication)</li>
+  <li>Data storytelling for leadership</li>
+  <li>Analytical translation & scenario explanation</li>
+  <li>Business-focused reporting and presentation building</li>
 </ul>
+
+
+
+
+
+
+
+
