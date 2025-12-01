@@ -27,7 +27,7 @@ It highlights my ability to:
 ## Report List
 | Project | Description |
 | --- | --- |
-| [New Medicaid Database]([https://github.com/julyndav/Reporting/blob/main/Reports/IA%20Slide%20Deck.pdf]) | Executive overview slidedeck  |
+| [New Medicaid Database][https://github.com/julyndav/Reporting/blob/main/Reports/IA%20Slide%20Deck.pdf]) | Executive overview slidedeck  |
 
 <br>
 
