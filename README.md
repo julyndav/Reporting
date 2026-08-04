@@ -28,6 +28,7 @@ It highlights my ability to:
 | Project | Description |
 | --- | --- |
 | [New Medicaid Database](https://github.com/julyndav/Reporting/blob/main/Reports/IA%20Slide%20Deck.pdf) | Executive overview slidedeck  |
+| [Medicaid Claim Denials](https://github.com/julyndav/Reporting/blob/main/Reports/Medicaid_Claim_Denial_Research_Brief.pdf) | Research Brief |
 
 <br>
 
