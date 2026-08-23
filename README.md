@@ -28,7 +28,7 @@ This repository demonstrates the ability to translate data analysis into concise
 <ul>
   <li>PowerPoint (executive slide architecture & design)</li>
   <li>Power BI (visual design & insight communication)</li>
-  <li>Data storytelling for leadership audiences
+  <li>Data storytelling for leadership audiences.
 Translating technical analysis into business recommendations</li>
 </ul>
 
