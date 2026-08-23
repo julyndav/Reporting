@@ -1,44 +1,35 @@
 # Reporting Portfolio 📊
 
-A collection of executive-level reports and slide decks developed for upper management, investors, and key stakeholders.
-These presentations translate complex data into clear, actionable insights and demonstrate strong communication, design, and analytical storytelling skills.
+A collection of executive-level slide decks built to translate data analysis into clear, structured presentations for leadership and cross-functional stakeholders.
 <br></br>
 
 ## What You’ll Find Here 
 <ul>
 <li><b>Executive Slide Decks:</b>
- <dd>Professionally-designed PowerPoint presentations used to relay analytical findings, business insights, and proposed solutions</li></dd>
-<li><b>Project & Initiative Overviews:</b>
-<dd>Clear and structured breakdowns of business challenges, methodologies, and results—tailored for strategic decision-makers</li></dd>
-<li><b>Data-Driven Narratives:</b>
- <dd>Each report is crafted to blend analytical rigor with compelling storytelling to drive impact and alignment</li></dd></ul>
+ <dd>PowerPoint presentations summarizing analytical findings, business impact, and recommendations</li></dd>
+<li><b>Project Overviews:</b>
+<dd>Structured breakdowns of the business problem, approach, and results for each analysis</li></dd>
+<li><b>Stakeholder-ready framing:</b>
+ <dd>Each deck is built to communicate findings clearly to both technical and non-technical audiences, not just present raw results</li></dd></ul>
 <br>
 
-## Purpose of This Repository  
-This repository serves as a public-facing showcase of the reporting work I’ve delivered across various projects.
-It highlights my ability to:
-<ul>
-<li>Translate data into concise, digestible insights</li>
-<li>Communicate with technical and non-technical audiences</li>
-<li>Create visually appealing, structured executive presentations</li>
-<li>Drive clarity and alignment across leadership teams</li></ul>
+This repository demonstrates the ability to translate data analysis into concise, decision-ready presentations — turning findings into recommendations leadership can act on.
 <br>
 
 ## Report List
 | Project | Description |
 | --- | --- |
-| [Medicaid Client Database](https://github.com/julyndav/Reporting/blob/main/Reports/Client%20Database%20Slide%20Deck.pdf) | 
-| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | 
+| [Medicaid Client Database](https://github.com/julyndav/Reporting/blob/main/Reports/Client%20Database%20Slide%20Deck.pdf) | Executive overview of a relational database built to unify client records and Medicaid billing, presented to internal leadership | 
+| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | Stakeholder presentation of railcard adoption and revenue findings, built for Marketing, Operations, and Finance audiences | 
 
 <br>
 
 ## Tools & Skills 
 <ul>
   <li>PowerPoint (executive slide architecture & design)</li>
-  <li>Power BI / Tableau (visual design & insight communication)</li>
-  <li>Data storytelling for leadership</li>
-  <li>Analytical translation & scenario explanation</li>
-  <li>Business-focused reporting and presentation building</li>
+  <li>Power BI (visual design & insight communication)</li>
+  <li>Data storytelling for leadership audiences
+Translating technical analysis into business recommendations</li>
 </ul>
 
 
