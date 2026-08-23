@@ -27,8 +27,8 @@ It highlights my ability to:
 ## Report List
 | Project | Description |
 | --- | --- |
-| [Medicaid Client Database](https://github.com/julyndav/Reporting/blob/main/Reports/Client%20Database%20Slide%20Deck.pdf) | Executive overview slide deck |
-| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | Research Brief |
+| [Medicaid Client Database](https://github.com/julyndav/Reporting/blob/main/Reports/Client%20Database%20Slide%20Deck.pdf) | 
+| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | 
 
 <br>
 
