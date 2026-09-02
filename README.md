@@ -19,7 +19,6 @@ This repository demonstrates the ability to translate data analysis into concise
 ## Report List
 | Project | Description |
 | --- | --- |
-| [Medicaid Client Database](https://github.com/julyndav/Reporting/blob/main/Reports/Client%20Database%20Slide%20Deck.pdf) | Executive overview of a relational database built to unify client records and Medicaid billing, presented to internal leadership | 
 | [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | Stakeholder presentation of railcard adoption and revenue findings, built for Marketing, Operations, and Finance audiences | 
 
 <br>
