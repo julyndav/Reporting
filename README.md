@@ -19,7 +19,7 @@ This repository demonstrates the ability to translate data analysis into concise
 ## Report List
 | Project | Description |
 | --- | --- |
-| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/Reports/UK%20Rail%20Project_SlideDeck.pdf) | Stakeholder presentation of railcard adoption and revenue findings, built for Marketing, Operations, and Finance audiences | 
+| [UK Passenger Rail Project](https://github.com/julyndav/Reporting/blob/main/UK%20Rail%20Project_SlideDeck.pdf) | Stakeholder presentation of railcard adoption and revenue findings, built for Marketing, Operations, and Finance audiences | 
 
 <br>
 
